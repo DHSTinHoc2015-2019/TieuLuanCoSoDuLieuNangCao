@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_student>
+	<student Code="1">
+		<Name>Lê V?n A</Name>
+		<Gender>0</Gender>
+	</student>
+	<student Code="2">
+		<Name>Nguy?n Th? B</Name>
+		<Gender>1</Gender>
+	</student>
+	<student Code="3">
+		<Name>Tr?n V?n C</Name>
+		<Gender>0</Gender>
+	</student>
+	<student Code="4">
+		<Name>Nguy?n a</Name>
+		<Gender>0</Gender>
+	</student>
+</table_student>

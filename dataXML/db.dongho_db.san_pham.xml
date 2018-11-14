@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_san_pham>
+	<san_pham ma_san_pham="10351.45.13">
+		<id_thuong_hieu>4</id_thuong_hieu>
+		<gia>9522000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208269Đồng hồ Atlantic 29037.45.31MB.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="17-13043-321">
+		<id_thuong_hieu>3</id_thuong_hieu>
+		<gia>16857000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu></xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208823Đồng hồ Bruno sohnle BS-17-33189-892.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="17-13144-241">
+		<id_thuong_hieu>4</id_thuong_hieu>
+		<gia>4500000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo>10</do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208657Đồng hồ Bruno sohnle 17-13144-241.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="17-13170-221">
+		<id_thuong_hieu>2</id_thuong_hieu>
+		<gia>9297000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208770Đồng hồ Bruno Sohnle 17-23115-952.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="17-23115-952">
+		<id_thuong_hieu>4</id_thuong_hieu>
+		<gia>10000000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208724Đồng hồ Bruno Sohnle 17-13170-221.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="213T.333X2">
+		<id_thuong_hieu>6</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528210009Stuhrling Original Tourbillon 213T.333X2.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="213T.334XK2">
+		<id_thuong_hieu>6</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528210041Stuhrling Original Tourbillon 213T.334XK2.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="22347.41.21">
+		<id_thuong_hieu>2</id_thuong_hieu>
+		<gia>4500000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208310Đồng hồ Atlantic 56350.45.21.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="29037.45.31MB">
+		<id_thuong_hieu>1</id_thuong_hieu>
+		<gia>51300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo>10</do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208225Đồng hồ Atlantic 22347.41.21.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="3386.132.22.18.25">
+		<id_thuong_hieu>1</id_thuong_hieu>
+		<gia>27100000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh></bao_hanh>
+		<muc_chiu_nuoc></muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528207742Đồng hồ epos 3390.152.22.11.25.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="3390.152.22.11.25">
+		<id_thuong_hieu>3</id_thuong_hieu>
+		<gia>33000000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo>10</do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528207837Đồng hồ Epos 3411.131.24.18.34.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="3411.131.24.18.34">
+		<id_thuong_hieu>3</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208003Đồng hồ epos 3390.152.22.11.25.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="350.33452">
+		<id_thuong_hieu>6</id_thuong_hieu>
+		<gia>4500000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528210075Stuhrling Original Tourbillon 350.33452.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="396.33XX6">
+		<id_thuong_hieu>6</id_thuong_hieu>
+		<gia>27100000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528210117Stuhrling Original Tourbillon 396.33XX6.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="4426.132.32.68.42">
+		<id_thuong_hieu>2</id_thuong_hieu>
+		<gia>32300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ mạ vàng PVD</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire Crystal (kính chống trầy)</loai_kinh>
+		<nang_luong>Đồng hồ cơ</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang>Cơ hội nhận Ví da và Bút Epos cao cấp!</qua_tang>
+		<hinh_anh>1528071113Epos Swiss 4426.132.32.68.42.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="56350.45.21">
+		<id_thuong_hieu>2</id_thuong_hieu>
+		<gia>33000000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208344Đồng hồ Atlantic 87362.41.21NY.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="8000.700.28.85.32">
+		<id_thuong_hieu>2</id_thuong_hieu>
+		<gia>51300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo>42,5 mm</duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528207567Đồng hồ Epos 8000.700.28.85.32.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="87362.41.21NY">
+		<id_thuong_hieu>3</id_thuong_hieu>
+		<gia>9144000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Inox</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>4 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208174Đồng hồ Atlantic 10351.45.13.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="AD501AK ANDROID">
+		<id_thuong_hieu>6</id_thuong_hieu>
+		<gia>51300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528210152Stuhrling Original Tourbillon AD501AK ANDROID.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="AG-G101 RG-CF">
+		<id_thuong_hieu>1</id_thuong_hieu>
+		<gia>4925250</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo></chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh></bao_hanh>
+		<muc_chiu_nuoc></muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong></nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208995Đồng hồ Aries Gold AG-G101 RG-CF.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="AG-G9005 S-S">
+		<id_thuong_hieu>1</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh>Sapphire chống xước</loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo>11</duong_kinh_vo>
+		<do_day_vo>10</do_day_vo>
+		<qua_tang>11111111111111</qua_tang>
+		<hinh_anh>1528209375Đồng hồ Aries Gold L137 G-SRI.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="AG-L5032Z G-W-L">
+		<id_thuong_hieu>4</id_thuong_hieu>
+		<gia>4252500</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo></chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh></bao_hanh>
+		<muc_chiu_nuoc></muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong></nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209036Đồng hồ Aries Gold G9001 S-BU.png</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="BS-17-33189-892">
+		<id_thuong_hieu>3</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>1</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528208609Đồng hồ Bruno Sohnle 17-13043-321.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="DM15145IG">
+		<id_thuong_hieu>5</id_thuong_hieu>
+		<gia>51300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209886Đồng hồ Diamond D DM38445RG.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="DM38445RG">
+		<id_thuong_hieu>5</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209813Diamond D DM6305B5.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="DM61045IG">
+		<id_thuong_hieu>5</id_thuong_hieu>
+		<gia>33000000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209853Đồng hồ Diamond D DM15145IG.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="DM61195">
+		<id_thuong_hieu>5</id_thuong_hieu>
+		<gia>4500000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nữ</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209921Đồng hồ Diamond D DM61045IG.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="DM6305B5">
+		<id_thuong_hieu>5</id_thuong_hieu>
+		<gia>26300000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209954Đồng hồ Diamond D DM61195.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="G9001 S-BU">
+		<id_thuong_hieu>1</id_thuong_hieu>
+		<gia>4500000</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ</chat_lieu_vo>
+		<chat_lieu_day>Thép không gỉ</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>7 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209486Đồng hồ nữ Aries Gold AG-L5032Z G-W-L.jpg</hinh_anh>
+	</san_pham>
+	<san_pham ma_san_pham="L137 G-SRI">
+		<id_thuong_hieu>4</id_thuong_hieu>
+		<gia>4925250</gia>
+		<noi_bat>0</noi_bat>
+		<loai_dong_ho>Đồng hồ nam</loai_dong_ho>
+		<xuat_xu>Thụy Sỹ</xuat_xu>
+		<chat_lieu_vo>Thép không gỉ mạ vàng PVD</chat_lieu_vo>
+		<chat_lieu_day>Dây da</chat_lieu_day>
+		<bao_hanh>10 năm</bao_hanh>
+		<muc_chiu_nuoc>5 ATM</muc_chiu_nuoc>
+		<loai_kinh></loai_kinh>
+		<nang_luong>Cơ tự động</nang_luong>
+		<duong_kinh_vo></duong_kinh_vo>
+		<do_day_vo></do_day_vo>
+		<qua_tang></qua_tang>
+		<hinh_anh>1528209760Đồng hồ nữ Aries Gold AG-L5032Z G-W-L.jpg</hinh_anh>
+	</san_pham>
+</table_san_pham>

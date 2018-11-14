@@ -1,0 +1,14 @@
+﻿http://javaonlineguide.net/2016/01/java-to-convert-table-data-into-xml-and-vice-versa-example-using-mysql.html
+https://phppot.com/php/insert-xml-data-to-mysql-table/
+https://www.youtube.com/watch?v=KTb9Bl8IvxA
+http://www.kvcodes.com/2017/03/generate-xml-file-using-php-mysql/
+https://stackoverflow.com/questions/486757/how-to-generate-xml-file-dynamically-using-php
+https://www.google.com/search?client=firefox-b-ab&ei=5MPjW_HbB5Hn-AbFsIfADA&q=import+xml+to+sql+table+online&oq=import+xml+to+sql+table+online&gs_l=psy-ab.3...1793.4020.0.4263.7.7.0.0.0.0.957.1289.0j1j1j6-1.3.0....0...1c.1.64.psy-ab..4.3.1286...0i22i30k1j0i22i10i30k1j33i22i29i30k1.0.erRwSk7VcQs
+https://davidwalsh.name/backup-mysql-database-php
+https://www.youtube.com/watch?v=uITycce6TvU
+
+http://repository.vnu.edu.vn/bitstream/VNU_123/7883/1/01050000187.pdf
+
+
+get primary key of table
+SHOW KEYS FROM table WHERE Key_name = 'PRIMARY'

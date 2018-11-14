@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_sanpham>
+	<sanpham id="1">
+		<tensanpham>Itzel Kunde</tensanpham>
+		<mota>Deleniti et aperiam voluptate ipsum excepturi.</mota>
+		<giagoc>509620948</giagoc>
+		<khuyenmai>47</khuyenmai>
+		<anhchinh>hinhanh0</anhchinh>
+		<noibat>1</noibat>
+		<luotthich>9292</luotthich>
+		<id_loaisp>1</id_loaisp>
+		<created_at></created_at>
+		<updated_at></updated_at>
+	</sanpham>
+	<sanpham id="2">
+		<tensanpham>Ms. Abbigail Davis MD</tensanpham>
+		<mota>Quaerat eos ipsam illum accusantium.</mota>
+		<giagoc>3999</giagoc>
+		<khuyenmai>12</khuyenmai>
+		<anhchinh>hinhanh1</anhchinh>
+		<noibat>0</noibat>
+		<luotthich>4914</luotthich>
+		<id_loaisp>3</id_loaisp>
+		<created_at></created_at>
+		<updated_at></updated_at>
+	</sanpham>
+	<sanpham id="3">
+		<tensanpham>Luisa Fadel</tensanpham>
+		<mota>Excepturi accusamus vitae corrupti fugiat occaecati nesciunt voluptates.</mota>
+		<giagoc>13</giagoc>
+		<khuyenmai>73</khuyenmai>
+		<anhchinh>hinhanh2</anhchinh>
+		<noibat>0</noibat>
+		<luotthich>1238</luotthich>
+		<id_loaisp>2</id_loaisp>
+		<created_at></created_at>
+		<updated_at></updated_at>
+	</sanpham>
+	<sanpham id="4">
+		<tensanpham>Dr. Demarco Kertzmann I</tensanpham>
+		<mota>Consequatur aut ut incidunt cupiditate laboriosam culpa velit.</mota>
+		<giagoc>2771314</giagoc>
+		<khuyenmai>55</khuyenmai>
+		<anhchinh>hinhanh3</anhchinh>
+		<noibat>1</noibat>
+		<luotthich>3853</luotthich>
+		<id_loaisp>1</id_loaisp>
+		<created_at></created_at>
+		<updated_at></updated_at>
+	</sanpham>
+	<sanpham id="5">
+		<tensanpham>Dr. Guillermo Jones</tensanpham>
+		<mota>Sed sint perferendis corporis est dicta.</mota>
+		<giagoc>3</giagoc>
+		<khuyenmai>73</khuyenmai>
+		<anhchinh>hinhanh4</anhchinh>
+		<noibat>0</noibat>
+		<luotthich>5302</luotthich>
+		<id_loaisp>4</id_loaisp>
+		<created_at></created_at>
+		<updated_at></updated_at>
+	</sanpham>
+</table_sanpham>

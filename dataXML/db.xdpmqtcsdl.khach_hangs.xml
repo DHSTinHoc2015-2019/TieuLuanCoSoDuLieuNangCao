@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_khach_hangs>
+	<khach_hangs id="1">
+		<tenkhachhang>Kim O'Keefe</tenkhachhang>
+		<ngaysinh>1991-09-10</ngaysinh>
+		<gioitinh>Nam</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>5823 Ford CrestDerickmouth, CT 87303</diachi>
+		<sodienthoai>234-210-1634</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at>2018-09-30 17:00:06</updated_at>
+	</khach_hangs>
+	<khach_hangs id="2">
+		<tenkhachhang>Alvis Gutmann</tenkhachhang>
+		<ngaysinh>1997-11-08</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>5153 Johnston Summit
+Laneychester, AR 53622</diachi>
+		<sodienthoai>995-726-9234 x5915</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="3">
+		<tenkhachhang>Shaniya Ruecker</tenkhachhang>
+		<ngaysinh>1997-08-12</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>367 Bauch Passage Suite 360
+Lake Domenic, VT 03531</diachi>
+		<sodienthoai>412.302.6460 x046</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="4">
+		<tenkhachhang>Miss Meredith Adams II</tenkhachhang>
+		<ngaysinh>2003-11-06</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>75430 Cleveland Parkways
+Chesterbury, WA 59606</diachi>
+		<sodienthoai>+1-991-336-2079</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="5">
+		<tenkhachhang>Dr. Dean Rice III</tenkhachhang>
+		<ngaysinh>2010-06-16</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>31866 Beaulah Plains Apt. 907
+Webermouth, WY 50067-4913</diachi>
+		<sodienthoai>1-815-490-9749 x412</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="6">
+		<tenkhachhang>Ricky Reichert</tenkhachhang>
+		<ngaysinh>1978-07-13</ngaysinh>
+		<gioitinh>Nam</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>42155 Harris Mews
+East Ivory, NJ 47446</diachi>
+		<sodienthoai>407-424-4982 x59293</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="7">
+		<tenkhachhang>Norberto Leuschke DVM</tenkhachhang>
+		<ngaysinh>2003-04-30</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>4370 Casper Common Apt. 825
+Nyasiachester, NY 02907</diachi>
+		<sodienthoai>414-875-2964 x235</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="8">
+		<tenkhachhang>Dr. Merle Schroeder</tenkhachhang>
+		<ngaysinh>1996-01-29</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>73442 Lebsack Mews Suite 562
+West Dejaside, TX 09444-2264</diachi>
+		<sodienthoai>(928) 268-0206 x61331</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="9">
+		<tenkhachhang>Mr. Herman Hegmann</tenkhachhang>
+		<ngaysinh>1991-12-02</ngaysinh>
+		<gioitinh>Nam</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>426 Rippin Islands Suite 370
+Haagborough, NV 98655-4725</diachi>
+		<sodienthoai>554.299.8830</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+	<khach_hangs id="10">
+		<tenkhachhang>Jayson Beahan</tenkhachhang>
+		<ngaysinh>1991-08-26</ngaysinh>
+		<gioitinh>Nữ</gioitinh>
+		<soCMND>197243945</soCMND>
+		<diachi>216 Bauch Fork
+East Magdalena, NY 14750</diachi>
+		<sodienthoai>(204) 429-4563 x005</sodienthoai>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</khach_hangs>
+</table_khach_hangs>

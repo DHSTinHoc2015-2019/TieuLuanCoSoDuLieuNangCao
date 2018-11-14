@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_chuc_vus>
+	<chuc_vus id="1">
+		<tenchucvu>Giám đốc</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>10</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="2">
+		<tenchucvu>Phó giám đốc</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>4</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="3">
+		<tenchucvu>Trưởng phòng</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>3</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="4">
+		<tenchucvu>Kế toán</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>2.5</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="5">
+		<tenchucvu>Nhân viên sửa chữa</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>2</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="6">
+		<tenchucvu>Nhân viên quản lý kho</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>2</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="7">
+		<tenchucvu>Nhân viên bán hàng</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>2</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+	<chuc_vus id="8">
+		<tenchucvu>Bảo vệ</tenchucvu>
+		<luongcoban>3950000</luongcoban>
+		<hesoluong>1.7</hesoluong>
+		<created_at>2018-09-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</chuc_vus>
+</table_chuc_vus>

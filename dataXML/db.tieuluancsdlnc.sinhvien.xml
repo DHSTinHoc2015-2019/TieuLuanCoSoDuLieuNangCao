@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_sinhvien>
+	<sinhvien id="1">
+		<ten>a</ten>
+		<lop>Tin A</lop>
+	</sinhvien>
+	<sinhvien id="2">
+		<ten>b</ten>
+		<lop>Tin B</lop>
+	</sinhvien>
+	<sinhvien id="3">
+		<ten>c</ten>
+		<lop>Tin C</lop>
+	</sinhvien>
+	<sinhvien id="4">
+		<ten>d</ten>
+		<lop>Tin D</lop>
+	</sinhvien>
+</table_sinhvien>

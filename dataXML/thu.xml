@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <title>Sales Item Detail
+  </title>
+  <cols>
+    <th name="transid" type="i">Transaction ID
+    </th>
+    <th name="account" type="i">Account
+    </th>
+    <th name="store" type="i">Store
+    </th>
+    <th name="date" type="i" format="type:date">Date
+    </th>
+    <th name="sku" type="a">Item SKU
+    </th>
+    <th name="units" type="i">Units
+    </th>
+    <th name="sales" type="f">Sales
+    </th>
+    <th name="cost" type="f">Cost
+    </th>
+  </cols>
+  <data>
+    <tr>
+      <td>531
+      </td>
+      <td>957
+      </td>
+      <td>1
+      </td>
+      <td>20120515
+      </td>
+      <td>366
+      </td>
+      <td>-1
+      </td>
+      <td>-5
+      </td>
+      <td>-1.84
+      </td>
+    </tr>
+    <tr>
+      <td>535
+      </td>
+      <td>709
+      </td>
+      <td>2
+      </td>
+      <td>20120515
+      </td>
+      <td>CB7
+      </td>
+      <td>1
+      </td>
+      <td>1.65
+      </td>
+      <td>1.1
+      </td>
+    </tr>
+    <tr>
+      <td>535
+      </td>
+      <td>709
+      </td>
+      <td>2
+      </td>
+      <td>20120515
+      </td>
+      <td>96A
+      </td>
+      <td>1
+      </td>
+      <td>1.1
+      </td>
+      <td>1
+      </td>
+    </tr>
+    <tr>
+      <td>538
+      </td>
+      <td>668
+      </td>
+      <td>1
+      </td>
+      <td>20120518
+      </td>
+      <td>969
+      </td>
+      <td>1
+      </td>
+      <td>1.1
+      </td>
+      <td>1
+      </td>
+    </tr>
+    <tr>
+      <td>538
+      </td>
+      <td>668
+      </td>
+      <td>1
+      </td>
+      <td>20120518
+      </td>
+      <td>3B7
+      </td>
+      <td>1
+      </td>
+      <td>1.1
+      </td>
+      <td>0.56
+      </td>
+    </tr>
+    <tr>
+      <td>539
+      </td>
+      <td>25
+      </td>
+      <td>2
+      </td>
+      <td>20120619
+      </td>
+      <td>65B
+      </td>
+      <td>1
+      </td>
+      <td>5
+      </td>
+      <td>3.35
+      </td>
+    </tr>
+  </data>
+</table>
