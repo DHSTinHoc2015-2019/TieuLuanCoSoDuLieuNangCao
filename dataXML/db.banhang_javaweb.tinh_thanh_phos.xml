@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_tinh_thanh_phos>
+	<tinh_thanh_phos id="0">
+		<ten></ten>
+		<tenkhongdau></tenkhongdau>
+		<donvi></donvi>
+		<tendaydu></tendaydu>
+		<code>0</code>
+	</tinh_thanh_phos>
+	<tinh_thanh_phos id="48">
+		<ten>Đà Nẵng</ten>
+		<tenkhongdau>da-nang</tenkhongdau>
+		<donvi>thanh-pho</donvi>
+		<tendaydu>Thành phố Đà Nẵng</tendaydu>
+		<code>48</code>
+	</tinh_thanh_phos>
+	<tinh_thanh_phos id="49">
+		<ten>Quảng Nam</ten>
+		<tenkhongdau>quang-nam</tenkhongdau>
+		<donvi>tinh</donvi>
+		<tendaydu>Tỉnh Quảng Nam</tendaydu>
+		<code>49</code>
+	</tinh_thanh_phos>
+</table_tinh_thanh_phos>

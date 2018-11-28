@@ -1,12 +1,9 @@
-<?php 
+<?php
+session_start();
 	$tableName = strval($_GET['tb']);
 	$databaseName = strval($_GET['db']);
-	// echo $databaseName ."<br>" . $tableName;
-	$servername = 'localhost';
-	$usernamedb = 'root';
-	$passwordb = '';
 
-	$conn = new mysqli($servername, $usernamedb, $passwordb, $databaseName);
+	$conn = new mysqli($_SESSION['servername'], $_SESSION['username'], $_SESSION['password'], $databaseName);
 	if ($conn->connect_error) {
 	    die("Connection failed: " . $conn->connect_error);
 	} 
@@ -37,7 +34,17 @@
 		// }
 		$str = "";
 		$str .= '<div class="card" style="margin-top: 2em;">
-				<div class="card-header">BẢNG</div>
+				<div class="card-header">
+						<div class="row">
+							<div class="col-md-6 font-weight-bold h5">BẢNG</div>
+							<div class="col-md-6">
+								<div class="text-right">
+						            <button type="button" class="btn btn-warning" onclick="showDOM()">BIỂU DIỄN DOM</button>
+						            <button type="button" class="btn btn-warning" onclick="ConvertSQLtoXML()">CHUYỂN ĐỔI</button>
+								</div>
+							</div>
+						</div>
+					</div>
 				<div class="card-body">
 					<table id="example" class="table table-striped table-bordered table-hover" style="width:100%">
 				        <thead>

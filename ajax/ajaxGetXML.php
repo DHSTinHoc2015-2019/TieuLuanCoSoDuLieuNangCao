@@ -1,21 +1,17 @@
 <?php 
-	$servername = 'localhost';
-	$usernamedb = 'root';
-	$passwordb = '';
+	session_start();
 	$databasename = strval($_GET['db']);
 	$tableName = strval($_GET['tb']);
-
-	$myFile = "dataXML/db.".$databasename.".".$tableName.'.xml';
+	// echo $databasename;
+	$myFile = "../dataXML/db.".$databasename.".".$tableName.'.xml';
 	$fh = fopen($myFile, 'w') or die("Không thể mở file"); 
 
 	$xml = "";
 	$xml .= '<?xml version="1.0" encoding="utf-8"?>'.PHP_EOL;
 	$xml .= '<table_'.$tableName.'>'.PHP_EOL."\t";
-
-	// require('Connection.php');
 	
 
-	$conn = new mysqli($servername, $usernamedb, $passwordb, $databasename);
+	$conn = new mysqli($_SESSION['servername'], $_SESSION['username'], $_SESSION['password'], $databasename);
 
 	if ($conn->connect_error) {
 	    die("Connection failed: " . $conn->connect_error);
@@ -59,8 +55,13 @@
 	fwrite($fh, $xml);
 	fclose($fh);
 	$conn->close();
-	if (file_exists("dataXML/db.".$databasename.".".$tableName.'.xml')) {
-	    $xml = file_get_contents("dataXML/db.".$databasename.".".$tableName.'.xml');
+
+
+
+
+	//Hiển thị file xml đến web
+	if (file_exists("../dataXML/db.".$databasename.".".$tableName.'.xml')) {
+	    $xml = file_get_contents("../dataXML/db.".$databasename.".".$tableName.'.xml');
 	    $content = str_replace("<", "&lt;", $xml);
 	    $content = str_replace(">", "&gt;", $content);
 	    

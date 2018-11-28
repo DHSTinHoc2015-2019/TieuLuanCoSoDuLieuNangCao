@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_binhluanbaiviet>
+	<binhluanbaiviet id="1">
+		<noidung>nội dung thứ nhất</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>8</id_taikhoan>
+		<created_at>2018-11-20 00:00:00</created_at>
+		<updated_at></updated_at>
+	</binhluanbaiviet>
+	<binhluanbaiviet id="2">
+		<noidung>Nội dung thứ 2</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>9</id_taikhoan>
+		<created_at>2018-11-21 00:00:00</created_at>
+		<updated_at>2018-11-25 00:00:00</updated_at>
+	</binhluanbaiviet>
+	<binhluanbaiviet id="3">
+		<noidung>Mới 3</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>9</id_taikhoan>
+		<created_at>2018-11-24 00:00:00</created_at>
+		<updated_at>2018-11-25 00:00:00</updated_at>
+	</binhluanbaiviet>
+	<binhluanbaiviet id="8">
+		<noidung>Mới 8</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>9</id_taikhoan>
+		<created_at>2018-11-24 00:00:00</created_at>
+		<updated_at>2018-11-25 00:00:00</updated_at>
+	</binhluanbaiviet>
+	<binhluanbaiviet id="10">
+		<noidung>Mới 10</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>9</id_taikhoan>
+		<created_at>2018-11-24 00:00:00</created_at>
+		<updated_at>2018-11-25 00:00:00</updated_at>
+	</binhluanbaiviet>
+	<binhluanbaiviet id="11">
+		<noidung>mới 11</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>9</id_taikhoan>
+		<created_at>2018-11-26 00:00:00</created_at>
+		<updated_at></updated_at>
+	</binhluanbaiviet>
+	<binhluanbaiviet id="12">
+		<noidung>Mới 12</noidung>
+		<id_baiviet>21</id_baiviet>
+		<id_taikhoan>9</id_taikhoan>
+		<created_at>2018-11-26 00:00:00</created_at>
+		<updated_at>2018-11-26 00:00:00</updated_at>
+	</binhluanbaiviet>
+</table_binhluanbaiviet>

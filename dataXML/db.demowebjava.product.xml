@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table_product>
+	<product CODE="P001">
+		<NAME>Java Core</NAME>
+		<PRICE>100</PRICE>
+	</product>
+	<product CODE="P002">
+		<NAME>C# Core</NAME>
+		<PRICE>90</PRICE>
+	</product>
+	<product CODE="P003">
+		<NAME>T</NAME>
+		<PRICE>100</PRICE>
+	</product>
+</table_product>

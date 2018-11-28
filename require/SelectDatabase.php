@@ -1,8 +1,6 @@
-<?php 
-	$servername = 'localhost';
-	$usernamedb = 'root';
-	$passwordb = '';
-	$connection = new mysqli($servername, $usernamedb, $passwordb);
+<?php
+	session_start();
+	$connection = new mysqli($_SESSION['servername'], $_SESSION['username'], $_SESSION['password']);
 
 	$sql = "SHOW DATABASES";
 	$result = $connection->query($sql);
@@ -10,9 +8,6 @@
 	if($result){
 		$allDatabase = $result->fetch_all();
 		$result->free();
-		// foreach ($allDatabase as $allDatabase) {
-		// 	echo $allDatabase[0];
-		// }
 	}
 		
 	$connection->close();
